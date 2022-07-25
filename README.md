@@ -1,6 +1,4 @@
-# Linux
-
-## Commands
+# Linux Commands
 
 ```
 df -lH
